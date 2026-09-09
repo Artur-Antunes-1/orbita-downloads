@@ -1,5 +1,7 @@
 # Órbita — downloads
 
+**[Guia completo das novidades e de como usar a versão 0.4](GUIA-0.4.md)**
+
 Órbita é um aplicativo experimental de contexto e orientação para Windows e macOS. Ele usa seu perfil, as memórias que você confirma e o contexto que autoriza para ajudar nos aplicativos compatíveis.
 
 ## Baixar a versão 0.4.0
