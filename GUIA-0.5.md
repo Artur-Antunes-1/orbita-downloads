@@ -1,6 +1,8 @@
-# Órbita 0.5.0 — primeiro uso
+# Órbita 0.5.1 — primeiro uso
 
 A Órbita acompanha seu trabalho com contexto que você escolhe fornecer. Perfil e memória ficam neste dispositivo; enviar conteúdo à IA, sincronizar uma conta e compartilhar a agenda têm controles próprios.
+
+**Novo na versão 0.5.1:** o acesso lateral fica recolhido em uma cápsula pequena. Passe o mouse para revelar os atalhos e clique para abrir a página desejada. Afastar o cursor recolhe os atalhos; uma página aberta por clique continua aberta. O hover não tira o foco do editor.
 
 ## Instalar e atualizar
 

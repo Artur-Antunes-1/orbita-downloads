@@ -4,12 +4,12 @@ AIOS e Órbita são o mesmo projeto: um aplicativo experimental de contexto e or
 
 **[Guia das novidades e de como usar a versão 0.5](GUIA-0.5.md)**
 
-## Baixar a versão 0.5.0
+## Baixar a versão 0.5.1
 
-- [Windows 64 bits](https://github.com/Artur-Antunes-1/orbita-downloads/releases/download/v0.5.0/Orbita-Windows-x64-0.5.0.zip)
-- [Mac Apple Silicon — M1 ou mais novo](https://github.com/Artur-Antunes-1/orbita-downloads/releases/download/v0.5.0/Orbita-Mac-arm64-0.5.0.zip)
-- [Mac Intel](https://github.com/Artur-Antunes-1/orbita-downloads/releases/download/v0.5.0/Orbita-Mac-x64-0.5.0.zip)
-- [Hashes SHA-256](https://github.com/Artur-Antunes-1/orbita-downloads/releases/download/v0.5.0/SHA256SUMS.txt)
+- [Windows 64 bits](https://github.com/Artur-Antunes-1/orbita-downloads/releases/download/v0.5.1/Orbita-Windows-x64-0.5.1.zip)
+- [Mac Apple Silicon — M1 ou mais novo](https://github.com/Artur-Antunes-1/orbita-downloads/releases/download/v0.5.1/Orbita-Mac-arm64-0.5.1.zip)
+- [Mac Intel](https://github.com/Artur-Antunes-1/orbita-downloads/releases/download/v0.5.1/Orbita-Mac-x64-0.5.1.zip)
+- [Hashes SHA-256](https://github.com/Artur-Antunes-1/orbita-downloads/releases/download/v0.5.1/SHA256SUMS.txt)
 
 Os downloads são públicos e não exigem acesso ao repositório de desenvolvimento.
 
@@ -20,6 +20,8 @@ Os downloads são públicos e não exigem acesso ao repositório de desenvolvime
 **Mac:** requer macOS 13 ou posterior. Extraia o ZIP e arraste `Orbita.app` para Aplicativos. `Command+Shift+Espaço` abre a lateral. Autorize Acessibilidade nos ajustes do sistema para os campos compatíveis. O auxiliar nativo já vem compilado.
 
 Abra **Painel de controle** pelo menu da Órbita ou pelo botão na lateral para usar a janela independente. Fechá-la mantém a Órbita em execução; **Sair** encerra o aplicativo.
+
+Na versão 0.5.1, o acesso lateral fica recolhido em uma cápsula pequena. Passe o mouse para revelar os atalhos, clique para abrir uma página e afaste o cursor para recolher os atalhos. O hover preserva o foco do editor; uma página aberta por clique permanece aberta.
 
 O Windows ainda não tem assinatura comercial. O Mac usa assinatura ad hoc, sem notarização Apple. Siga o guia incluído para a exceção individual de abertura; não desative proteções globais.
 
